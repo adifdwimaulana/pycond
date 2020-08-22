@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Adif'
-SITENAME = 'Pycond'
+AUTHOR = 'Python ID'
+SITENAME = 'PyCon ID 2020'
 SITEURL = ''
 
 PATH = 'content'
